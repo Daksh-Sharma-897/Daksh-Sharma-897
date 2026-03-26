@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://discovertemplate.com/design-assets/gifs/line-filled-gifs/smart-technology-animated-gif-icon-pack-4-powerpoint/](https://dtlive.s3.ap-south-1.amazonaws.com/16773/Smart-Technology-Animated-GIF-Icon-Pack-2.gif)"  />
+<img align="right" height="150" src="https://dtlive.s3.ap-south-1.amazonaws.com/16773/Smart-Technology-Animated-GIF-Icon-Pack-2.gif" />
 
 ###
 
